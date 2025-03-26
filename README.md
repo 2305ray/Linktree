@@ -1,7 +1,7 @@
-<h1 align="center"> Ignite Feed </h1>
+<h1 align="center"> Meu Linktree </h1>
 
 <p align="center">
- Interface de um feed de mídia social interativo, onde é possível comentar, excluir e curtir posts.
+ É uma simulação do meu linktree. Na qual organiza e centraliza todos os meus links importantes em um único local de fácil acesso.
 </p>
 
 
@@ -31,26 +31,15 @@
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- **React.js** – Biblioteca para construção da interface do usuário.
-- **Vite** – Ferramenta de build rápida e otimizada para projetos React.
-- **CSS Module** – Módulos CSS para estilização encapsulada e modular.
-- **JavaScript** – Linguagem de programação utilizada para a lógica da aplicação.
-- **Phosphor-react** – Biblioteca de ícones SVG flexível e altamente personalizável.
-- **ESLint** – Ferramenta para análise e padronização do código, garantindo boas práticas e melhor legibilidade.
-- **Date-fns** – Biblioteca para manipulação e formatação de datas de forma eficiente.  
-
+- **HTML** 
+- **CSS** 
+- **JavaScript** 
 
   ---
 
 ## 💡 Projeto
 
-- 📌 **Comentar**: Os usuários podem adicionar comentários às postagens, tornando a interação mais dinâmica.  
-- ❌ **Excluir comentários**: Caso necessário, um usuário pode remover um comentário específico.  
-- ❤️ **Curtir postagens**: Os usuários podem curtir os posts, indicando engajamento com o conteúdo.  
-
-O layout foi desenvolvido com um design simples e responsivo, garantindo uma boa experiência de usuário. O projeto foi criado com foco no estudo de tecnologias como React, JavaScript e estilização com CSS.  
-
-É um projeto desenvolvido pela Rocketseat no curso ReactJS do Ignite
+Projeto desenvolvido durante as aulas do curso Discover da Rocketseat: Este projeto tem como objetivo criar um site simples e funcional, inspirado no Linktree, que centraliza outros links de maneira clara e acessível. A principal funcionalidade é permitir que o usuário navegue facilmente para as páginas desejadas, seja de projetos, redes sociais ou outras informações importantes. Além disso, o site oferece uma experiência personalizada com a opção de alternar entre o modo Dark e Light, adaptando-se às preferências visuais do usuário. Este projeto foi desenvolvido com o intuito de aplicar e reforçar os conhecimentos adquiridos durante o curso Discover da Rocketseat.
 
 - [Rocketseat](https://www.rocketseat.com.br/)
 
@@ -80,13 +69,9 @@ O layout foi desenvolvido com um design simples e responsivo, garantindo uma boa
    ```bash
    cd Linktree
    ```
-3. Instale as dependências:
+3. Abra o arquivo index.html no navegador:
    ```bash
-   npm install
-   ```
-4. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm run dev
+   start index.html
    ```
 
 ---
